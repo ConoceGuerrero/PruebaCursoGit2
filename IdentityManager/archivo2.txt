@@ -1,2 +1,3 @@
 Hola estamos aprendiendo git 
-cambiosss
+cambiosssgit add
+Hola mundo
