@@ -17,7 +17,7 @@ namespace IdentityManager.Models
         [NotMapped]
         public string RoleId { get; set; }
         [NotMapped]
-        public string Role{ get; set; }
+        public string RolesId{ get; set; }
         [NotMapped]
         public IEnumerable<SelectListItem> RoleList { get; set; }
     }
