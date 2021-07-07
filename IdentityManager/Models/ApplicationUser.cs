@@ -12,7 +12,7 @@ namespace IdentityManager.Models
     public class ApplicationUser : IdentityUser
     {
         [Required]
-        public string Name { get; set; }
+        public string Name_Completo { get; set; }
         public DateTime DateCreated { get; set; }
         [NotMapped]
         public string RoleId { get; set; }
